@@ -21,7 +21,7 @@ TEST_CASE("Good Input"){
     CHECK((mat1+mat2) == mat1);
     CHECK((mat1+mat2) == mat1);
     CHECK((mat1+mat2) == mat1);
-     CHECK((mat1+mat2) == mat1);
+    CHECK((mat1+mat2) == mat1);
     CHECK((mat1+mat2) == mat1);
     CHECK((mat1+mat2) == mat1);
     CHECK((mat1+mat2) == mat1);
